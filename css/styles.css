@@ -1,0 +1,54 @@
+h1 {
+    font-family: fantasy;
+    color: blueviolet;
+    text-align: center;
+    font-size: 300%;
+}
+
+h2{
+    text-align: center;
+    color: rgba(141, 87, 190, 0.877);
+    font-size: 200%;
+}
+
+.contenedor{
+   
+    border: red 5px dotted;
+    border-width: auto;
+
+    
+}
+
+label{
+    display: flex;
+    font-family: fantasy;
+    color: rgb(234, 238, 15);
+    text-align: center;
+    justify-content: center;
+    font-size: 300%;
+
+}
+h3{
+text-align: center;
+color: blueviolet;
+font-size: 300%;
+}
+
+p{
+text-align: center;
+font-size: 300%;
+}
+
+
+
+#gustos{
+    
+    text-align: center;
+    font-size: 300%;
+    color: aqua;
+    font-family: fantasy;
+}
+
+li{
+    color: rgb(14, 55, 131);
+}
